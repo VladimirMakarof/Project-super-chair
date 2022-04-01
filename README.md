@@ -1,3 +1,3 @@
 # super-chair
 
-https://vladimirmakarof.github.io/super-chair/
+https://vladimirmakarof.github.io/Project-super-chair/
